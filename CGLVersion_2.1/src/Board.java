@@ -1,6 +1,6 @@
 
 public class Board {
-	private Cell[][] grid;
+	Cell[][] grid;
 	private int size;
 	public Board(int size) {
 		this.size = size;
