@@ -6,7 +6,7 @@ public class testJunitCell {
 	   public void testcell() {
 		   Cell check = new Cell(false);
 	       Assertions.assertEquals("false",check.toString());
-	       System.out.println(check.checkingStatus());
+//	       System.out.println(check.checkingStatus());
 	       
 	   }
 
