@@ -1,4 +1,7 @@
-
+/*
+ * @author  - R.V.Nikhil - 2020501117
+ * Took help from my team mate Sai chandra for explaning the concept.
+ */
 public class Board {
 	Cell[][] grid;
 	private int size;
